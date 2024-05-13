@@ -1,0 +1,6 @@
+query ListContinents {
+  continents {
+    id
+    name
+  }
+}
